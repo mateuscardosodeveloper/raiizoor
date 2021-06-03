@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateus
-- 👀 I’m looking for my first job like development banck-end or fullstack
+- 👀 I’m looking for my first job like development back-end or fullstack
 - 🌱 I’m currently learning Django
 - 📫 How to reach me mateus.informatica44@gmail.com or https://www.instagram.com/mateus_cardoso44/ 
 
