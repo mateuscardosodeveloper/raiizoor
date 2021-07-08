@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Mateus
-- 👀 I’m looking for my first job like development back-end or fullstack
-- 🌱 I’m currently learning Django
+#  Hi 👋, I’m Mateus
+
+```python 
+def __init__():
+```
+
+- 👨‍💻 Current I'm working how backend developer at [Let's delivery](https://www.lets.delivery/)
+- 🌱 I’m currently learning FastAPI with some concepts.
 - 📫 How to reach me mateus.informatica44@gmail.com or https://www.instagram.com/mateus_cardoso44/ 
 
 <!---
