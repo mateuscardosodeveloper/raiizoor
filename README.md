@@ -4,7 +4,7 @@
 def __init__():
 ```
 
-- 👨‍💻 Current I'm working how backend developer at [Let's delivery](https://www.lets.delivery/)
+- 👨‍💻 Nowadays I'm working as backend developer at [Let's delivery](https://www.lets.delivery/).
 - 🌱 I’m currently learning Python and some frameworks with some concepts.
 - 📫 How to reach me mateus.informatica44@gmail.com or https://www.instagram.com/mateus_cardoso44/ 
 
